@@ -5,8 +5,9 @@ This project is a part of FSND offered by Udacity. It's the last project, and it
 
 ## App's and Grader's Information
 IP Address: 18.224.158.93
-URL: http://ec2-18-224-158-93.us-east-2.compute.amazonaws.com/?_sm_au_=iVVB2nqMs3064JSQ
 Port: 2200
+URL: http://ec2-18-224-158-93.us-east-2.compute.amazonaws.com/?_sm_au_=iVVB2nqMs3064JSQ
+
 The commmand to connect to the server: `ssh -i .ssh/udacity.rsa grader@18.224.158.93 -p 2200`
 
 ## Summary of Software Installed and Changes
