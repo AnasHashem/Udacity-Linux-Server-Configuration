@@ -12,6 +12,8 @@ URL: http://ec2-18-224-158-93.us-east-2.compute.amazonaws.com/?_sm_au_=iVVB2nqMs
 
 The commmand to connect to the server: `ssh -i .ssh/udacity.rsa grader@18.224.158.93 -p 2200`
 
+The path to the SSH key is `/home/grader/.ssh/authorized_keys`
+
 ## Summary of Software Installed and Changes
 - In Lightsail, create a Linux instance, then download the key (.pem) file that comes with it.
 - To make the key file secure, run chmod 600 [path to the key]
